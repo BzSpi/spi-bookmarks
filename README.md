@@ -7,6 +7,8 @@ My bookmarks
     + [Designing HTTP Interfaces and RESTful Web Services] (https://speakerdeck.com/dzuelke/designing-http-interfaces-and-restful-web-services-sfliveparis2012-2012-06-08)
     
 # Frontend
+  + Documentation
+    + [All-in-one API documentation reader] (http://devdocs.io/)
   + AngularJS
     + [AngularJS learning] (https://github.com/jmcunningham/AngularJS-Learning)
 
