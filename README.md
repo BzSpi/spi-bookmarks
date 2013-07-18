@@ -1,4 +1,4 @@
-spi-bookmarks
+My bookmarks
 =============
 
 # Best pratices
