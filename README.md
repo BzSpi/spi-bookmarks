@@ -14,3 +14,5 @@ My bookmarks
 
 # Other bookmarks
   + [Dypsilon frontend bookmarks] (https://github.com/dypsilon/frontend-dev-bookmarks)
+  + [Dypsilon backend bookmarks] (https://gist.github.com/dypsilon/5819528)
+  + [PHP bookmarks] (https://gist.github.com/ziadoz/1677679)
