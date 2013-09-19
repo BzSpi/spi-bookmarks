@@ -14,10 +14,10 @@ My bookmarks
 # Frontend
   + Documentation
     + [All-in-one API documentation reader] (http://devdocs.io/)
-  + AngularJS
-    + [AngularJS learning] (https://github.com/jmcunningham/AngularJS-Learning)
-  + jQuery
-    + [JSDB.IO - jQuery plugin repo classified with github stats] (http://www.jsdb.io/)
+  + Javascript
+    + [JSDB.IO - javascript plugin repo classified with github stats] (http://www.jsdb.io/)
+    + AngularJS
+      + [AngularJS learning] (https://github.com/jmcunningham/AngularJS-Learning)
 
 # Other bookmarks
   + [Dypsilon frontend bookmarks] (https://github.com/dypsilon/frontend-dev-bookmarks)
