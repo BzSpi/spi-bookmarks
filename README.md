@@ -11,6 +11,7 @@ My bookmarks
   + Symfony 2
     + [Going further with the JMSSerializer] (https://speakerdeck.com/adrienbrault/going-further-with-the-jmsserializer)
     + [Which bundle to choose (FR - 2013)] (http://jolicode.github.io/best-bundle-conf/)
+    + [Continuous integration with Jenkins, Ant and Capistrano] (http://joshuaestes.me/post/31732961725/symfony2-continuous-integration-with-jenkins-ant-and)
 
 # Frontend
   + Documentation
