@@ -18,6 +18,7 @@ My bookmarks
     + [All-in-one API documentation reader] (http://devdocs.io/)
   + Javascript
     + [JSDB.IO - javascript plugin repo classified with github stats] (http://www.jsdb.io/)
+    + [A javascript date library for parsing, validating, manipulating, and formatting dates.] (http://momentjs.com/)
     + AngularJS
       + [AngularJS learning] (https://github.com/jmcunningham/AngularJS-Learning)
 
