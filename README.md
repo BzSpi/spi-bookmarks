@@ -26,6 +26,10 @@ My bookmarks
       + [Cheat sheet 2] (https://github.com/saikiranmothe/Twitter-Bootstrap-Cheat-Sheet/blob/master/Twitter%20Bootstrap%20Cheat%20Sheet%20.pdf?raw=true)
       + [Cheat sheet 3 (good)] (http://www.taesup.com/bootstrap/)
 
+# Databases
+  + SQL
+    + [Common MySQL Queries] (http://www.artfulsoftware.com/infotree/queries.php)
+
 # Other bookmarks
   + [Dypsilon frontend bookmarks] (https://github.com/dypsilon/frontend-dev-bookmarks)
   + [Dypsilon backend bookmarks] (https://gist.github.com/dypsilon/5819528)
