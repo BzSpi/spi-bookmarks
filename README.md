@@ -31,6 +31,7 @@ My bookmarks
       + [Cheat sheet 3 (good)] (http://www.taesup.com/bootstrap/)
 
 # Databases
+  + [Collaborative schemas library] (http://dbpatterns.com/)
   + SQL
     + [Common MySQL Queries] (http://www.artfulsoftware.com/infotree/queries.php)
 
