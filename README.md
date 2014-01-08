@@ -41,6 +41,9 @@ My bookmarks
   + SQL
     + [Common MySQL Queries] (http://www.artfulsoftware.com/infotree/queries.php)
 
+# Sysadmin
+  + [How to create a self-signed SSL Certificate] (http://www.akadia.com/services/ssh_test_certificate.html)
+
 # Other bookmarks
   + [Dypsilon frontend bookmarks] (https://github.com/dypsilon/frontend-dev-bookmarks)
   + [Dypsilon backend bookmarks] (https://gist.github.com/dypsilon/5819528)
