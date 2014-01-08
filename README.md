@@ -25,11 +25,11 @@ My bookmarks
     + [A javascript date library for parsing, validating, manipulating, and formatting dates.] (http://momentjs.com/)
     + AngularJS
       + [AngularJS learning] (https://github.com/jmcunningham/AngularJS-Learning)
-    + Twitter Bootstrap
-      + [Cheat sheet 1] (https://dresssed.s3.amazonaws.com/bootstrap_cheatsheet.pdf)
-      + [Cheat sheet 2] (https://github.com/saikiranmothe/Twitter-Bootstrap-Cheat-Sheet/blob/master/Twitter%20Bootstrap%20Cheat%20Sheet%20.pdf?raw=true)
-      + [Cheat sheet 3 (good)] (http://www.taesup.com/bootstrap/)
-      + [Boostrap templates] (http://startbootstrap.com/)
+  + Twitter Bootstrap
+    + [Cheat sheet 1] (https://dresssed.s3.amazonaws.com/bootstrap_cheatsheet.pdf)
+    + [Cheat sheet 2] (https://github.com/saikiranmothe/Twitter-Bootstrap-Cheat-Sheet/blob/master/Twitter%20Bootstrap%20Cheat%20Sheet%20.pdf?raw=true)
+    + [Cheat sheet 3 (good)] (http://www.taesup.com/bootstrap/)
+    + [Boostrap templates] (http://startbootstrap.com/)
   + Design
     + Icons
       + [Search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons ] (http://glyphsearch.com/)
