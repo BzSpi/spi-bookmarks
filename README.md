@@ -23,6 +23,7 @@ My bookmarks
   + Javascript
     + [JSDB.IO - javascript plugin repo classified with github stats] (http://www.jsdb.io/)
     + [A javascript date library for parsing, validating, manipulating, and formatting dates.] (http://momentjs.com/)
+    + [jQuery equivalent functions] (http://youmightnotneedjquery.com/)
     + AngularJS
       + [AngularJS learning] (https://github.com/jmcunningham/AngularJS-Learning)
   + Twitter Bootstrap
