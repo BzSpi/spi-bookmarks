@@ -44,6 +44,7 @@ My bookmarks
 
 # Sysadmin
   + [How to create a self-signed SSL Certificate] (http://www.akadia.com/services/ssh_test_certificate.html)
+  + [An SSH authentication agent for Cygwin that links OpenSSH to PuTTY's Pageant.] (https://github.com/cuviper/ssh-pageant/tree/prebuilt)
 
 # Other bookmarks
   + [Dypsilon frontend bookmarks] (https://github.com/dypsilon/frontend-dev-bookmarks)
