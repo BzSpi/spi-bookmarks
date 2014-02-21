@@ -16,6 +16,7 @@ My bookmarks
     + Continuous Integration
       + [Continuous integration with Jenkins, Ant and Capistrano] (http://joshuaestes.me/post/31732961725/symfony2-continuous-integration-with-jenkins-ant-and)
       + [Continuous Integration & Automated Deployments for Symfony 2 projects  (approach with Phing, Jenkins CI & Capifony)] (http://blog.maxromanovsky.com/2013/10/continuous-integration-automated.html)
+    + [Cache for Entity selection form] (http://forum.symfony-project.org/viewtopic.php?f=23&t=42754)
 
 # Frontend
   + Documentation
