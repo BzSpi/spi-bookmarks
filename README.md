@@ -10,6 +10,7 @@ My bookmarks
 
 # PHP
   + Symfony 2
+    + [Cheat sheet] (http://www.symfony2cheatsheet.com/)
     + [Going further with the JMSSerializer] (https://speakerdeck.com/adrienbrault/going-further-with-the-jmsserializer)
     + [Which bundle to choose (FR - 2013)] (http://jolicode.github.io/best-bundle-conf/)
     + [RESTing with Symfony2] (http://fr.slideshare.net/lsmith77/symfony-camp-2013-res-ting-with-symfony)
