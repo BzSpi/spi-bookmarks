@@ -12,7 +12,7 @@ My bookmarks
   + Symfony 2
     + [Cheat sheet] (http://www.symfony2cheatsheet.com/)
     + [Going further with the JMSSerializer] (https://speakerdeck.com/adrienbrault/going-further-with-the-jmsserializer)
-    + [SOA with symfony2] (http://www.slideshare.net/odino/soa-with-symfony2-confoo-2014-in-montreal-ca)
+    + [Service Oriented Architectures with Symfony2] (http://www.slideshare.net/odino/soa-with-symfony2-confoo-2014-in-montreal-ca)
     + [Which bundle to choose (FR - 2013)] (http://jolicode.github.io/best-bundle-conf/)
     + [RESTing with Symfony2] (http://fr.slideshare.net/lsmith77/symfony-camp-2013-res-ting-with-symfony)
     + Continuous Integration
