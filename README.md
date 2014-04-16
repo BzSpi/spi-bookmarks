@@ -13,11 +13,12 @@ My bookmarks
     + [Going further with the JMSSerializer] (https://speakerdeck.com/adrienbrault/going-further-with-the-jmsserializer)
     + [Service Oriented Architectures with Symfony2] (http://www.slideshare.net/odino/soa-with-symfony2-confoo-2014-in-montreal-ca)
     + [Which bundle to choose (FR - 2013)] (http://jolicode.github.io/best-bundle-conf/)
-    + [Decoupling your application](http://moquet.net/talks/symfony-live-2014/)
+    + [Decoupling your application] (http://moquet.net/talks/symfony-live-2014/)
     + API / REST
-      + [RESTing with Symfony2] (http://fr.slideshare.net/lsmith77/symfony-camp-2013-res-ting-with-symfony)
+      + [RESTing with Symfony2] (http://friendsofsymfony.github.io/slides/resting-with-symfony2.html#/)
       + [Symfony2 REST API Authentification] (http://devblog.lexik.fr/symfony2/lexikjwtauthenticationbundle-symfony2-rest-api-authentification-2649)
       + [Best practices pour vos APIs REST HTTP avec Symfony2] (http://afsy.fr/avent/2013/06-best-practices-pour-vos-apis-rest-http-avec-symfony2)
+      + [Build Awesome REST APIs With Symfony2] (http://friendsofsymfony.github.io/slides/build-awesome-rest-apis-with-symfony2.html)
     + Continuous Integration
       + [Continuous integration with Jenkins, Ant and Capistrano] (http://joshuaestes.me/post/31732961725/symfony2-continuous-integration-with-jenkins-ant-and)
       + [Continuous Integration & Automated Deployments for Symfony 2 projects  (approach with Phing, Jenkins CI & Capifony)] (http://blog.maxromanovsky.com/2013/10/continuous-integration-automated.html)
