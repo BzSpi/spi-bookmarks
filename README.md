@@ -45,6 +45,7 @@ My bookmarks
       + [Search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons ] (http://glyphsearch.com/)
       + [iOs 7 icons] (http://jlane.co/ios7-icons/)
       + [299 Webfont icons] (http://shoestrap.org/downloads/elusive-icons-webfont/)
+    + [Layout & components examples] (http://calltoidea.com/)
 
 # Databases
   + [Collaborative schemas library] (http://dbpatterns.com/)
