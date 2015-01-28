@@ -26,6 +26,10 @@ My bookmarks
       + [Continuous Integration & Automated Deployments for Symfony 2 projects  (approach with Phing, Jenkins CI & Capifony)] (http://blog.maxromanovsky.com/2013/10/continuous-integration-automated.html)
     + [Cache for Entity selection form] (http://forum.symfony-project.org/viewtopic.php?f=23&t=42754)
 
+# Python
+  + Django
+    + [ Déployer Django en production avec Nginx, Gunicorn et Supervisor ] (http://www.miximum.fr/deployer-django-en-production-nginx-gunicorn-supervisor.html)
+
 # Frontend
   + Documentation
     + [All-in-one API documentation reader] (http://devdocs.io/)
