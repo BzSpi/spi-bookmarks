@@ -27,7 +27,9 @@ My bookmarks
     + [Cache for Entity selection form] (http://forum.symfony-project.org/viewtopic.php?f=23&t=42754)
 
 # Python
+  + [ Awesome list ] (https://github.com/vinta/awesome-python)
   + Django
+    + [ Awesome list ] (https://github.com/rosarior/awesome-django)
     + [ Déployer Django en production avec Nginx, Gunicorn et Supervisor ] (http://www.miximum.fr/deployer-django-en-production-nginx-gunicorn-supervisor.html)
     + Best packages
       + [ Macros accepting positional and keyword arguments, and repeated block tags in the django template system.
