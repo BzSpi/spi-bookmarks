@@ -29,6 +29,9 @@ My bookmarks
 # Python
   + Django
     + [ Déployer Django en production avec Nginx, Gunicorn et Supervisor ] (http://www.miximum.fr/deployer-django-en-production-nginx-gunicorn-supervisor.html)
+    + Best packages
+      + [ Macros accepting positional and keyword arguments, and repeated block tags in the django template system.
+] (https://github.com/nalourie/django-macros)
 
 # Frontend
   + Documentation
