@@ -31,6 +31,7 @@ My bookmarks
   + Django
     + [ Awesome list ] (https://github.com/rosarior/awesome-django)
     + [ Déployer Django en production avec Nginx, Gunicorn et Supervisor ] (http://www.miximum.fr/deployer-django-en-production-nginx-gunicorn-supervisor.html)
+    + [ Setting up Django with Nginx, Gunicorn, virtualenv, supervisor and PostgreSQL ] (http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/)
     + Best packages
       + [ Macros accepting positional and keyword arguments, and repeated block tags in the django template system.
 ] (https://github.com/nalourie/django-macros)
